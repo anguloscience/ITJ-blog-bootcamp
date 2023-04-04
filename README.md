@@ -1,2 +1,8 @@
 # ITJ-blog-bootcamp
-The ITJuana Talent Team iorganized a Free Bootcamp for women who wants to become Full Stack Engineers.
+The ITJuana Talent Team organized a Free Bootcamp for women who wants to become Full Stack Engineers.
+
+Here, you can find the code for the blog created in class with some changes (made by me) to improve readability, accessibility, and maintainability; such as the use of the SaaS preprocessor.
+
+I am using the SCSS (file.scss) syntax instead of the CSS (file.css) syntax. SCSS syntax is a superset of CSS, which means all valid CSS is also valid SCSS. 
+
+More info about SaaS: https://sass-lang.com/guide
