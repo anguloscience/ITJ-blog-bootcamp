@@ -1,5 +1,5 @@
 # ITJ-blog-bootcamp
-Women Who Code Mexico City (WWC) and the ITJuana Talent Team organized a Free Bootcamp for women who wants to become Full Stack Engineers.
+Women Who Code (WWC) Mexico City and the ITJuana Talent Team organized a Free Bootcamp for women who wants to become Full Stack Engineers.
 
 Here, you can find the code for the blog created in class with some changes (made by me) to improve readability, accessibility, and maintainability; such as the use of the SaaS preprocessor.
 
