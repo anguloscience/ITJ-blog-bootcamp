@@ -6,3 +6,5 @@ Here, you can find the code for the blog created in class with some changes (mad
 I am using the SCSS (file.scss) syntax instead of the CSS (file.css) syntax. SCSS syntax is a superset of CSS, which means all valid CSS is also valid SCSS. 
 
 More info about SaaS: https://sass-lang.com/guide
+
+Initial ITJ bootcamp contents can be found in here: https://github.com/itjuana-bootcamp/FullStack
